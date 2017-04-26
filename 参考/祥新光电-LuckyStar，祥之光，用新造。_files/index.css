@@ -1,0 +1,120 @@
+body {
+	text-align: center;
+}
+.nav {
+	background: rgb(204, 255, 255); height: 30px;
+}
+.b_a {
+	background: rgb(149, 190, 31); top: 80%; width: 50px; height: 50px; line-height: 45px; font-size: 3em; position: absolute;
+}
+.b_div2 {
+	background: rgb(149, 190, 31); top: 35%; width: 15%; height: 70px; position: absolute; opacity: 0.7;
+}
+.b_p {
+	left: 3%; top: 0px; height: 35px; line-height: 35px; font-family: "Î¢ÈíÑÅºÚ"; font-weight: bold; display: inline-block; position: absolute;
+}
+.b_p a {
+	width: 36%; color: rgb(255, 255, 255);
+}
+.b_div2 .b_img {
+	left: 70%; top: 2%; vertical-align: top; display: inline-block; position: absolute;
+}
+.con_1 {
+	height: 30px; line-height: 30px; margin-top: 2%; border-top-color: rgb(189, 189, 189); border-bottom-color: rgb(189, 189, 189); border-top-width: 1px; border-bottom-width: 1px; border-top-style: dashed; border-bottom-style: dashed;
+}
+.c_ul {
+	height: 30px; overflow: hidden; font-family: "Î¢ÈíÑÅºÚ";
+}
+.c_ul li {
+	color: rgb(189, 189, 189); margin-right: 8px; float: left;
+}
+.c_ul li a {
+	color: rgb(189, 189, 189); font-family: "Î¢ÈíÑÅºÚ";
+}
+.c_ul li a:hover {
+	text-decoration: underline;
+}
+.c_form {
+	margin-top: 2px; margin-right: 30px; float: right;
+}
+.c_form .form-group input {
+	background: none; border: 1px solid rgb(188, 188, 188); border-image: none; height: 25px; font-family: "Î¢ÈíÑÅºÚ";
+}
+.a7 {
+	color: rgb(153, 153, 153);
+}
+.con_2 {
+	height: 70px; color: rgb(149, 190, 31); line-height: 70px; font-family: "Î¢ÈíÑÅºÚ"; font-weight: bold; margin-top: 2%;
+}
+.con_2 span {
+	font-size: 60px; font-weight: normal;
+}
+.con_3 {
+	color: rgb(132, 132, 132); font-family: "Î¢ÈíÑÅºÚ"; font-size: 1.3em; margin-top: 0.5%;
+}
+.con_4 {
+	margin-top: 0.3%; border-bottom-color: rgb(132, 132, 132); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.con_5 {
+	margin-top: 2.5%; cursor: pointer;
+}
+.con_5 p {
+	height: 40px; color: rgb(149, 149, 149); line-height: 40px;
+}
+.con_6 span {
+	background: rgb(149, 190, 31); border-radius: 5px; left: 100%; width: 8px; height: 8px; margin-top: -3px; position: absolute;
+}
+.c_img {
+	position: relative;
+}
+.c_show {
+	background: rgb(149, 190, 31); left: 5%; top: 0px; width: 25%; height: 30px; color: rgb(255, 255, 255); line-height: 30px; font-size: 14px; position: absolute; opacity: 0.8;
+}
+.con_7 {
+	margin-top: 2%;
+}
+.con_8 {
+	height: 2px; margin-top: 1%; border-bottom-color: rgb(149, 190, 31); border-bottom-width: 2px; border-bottom-style: solid; position: relative;
+}
+.con_8 .con_8_l {
+	background: rgb(149, 190, 31); border-radius: 5px; left: 0px; width: 8px; height: 8px; margin-top: -3px; position: absolute;
+}
+.con_8 .con_8_r {
+	background: rgb(149, 190, 31); border-radius: 5px; width: 8px; height: 8px; right: 0px; margin-top: -3px; position: absolute;
+}
+.c_service {
+	color: rgb(102, 102, 102);
+}
+.con_9 {
+	margin-top: 2%; margin-left: -2%;
+}
+.c_img_2 {
+	position: relative;
+}
+.c_p_1 {
+	background: rgb(51, 51, 51); margin: 0px; left: 5%; width: 85%; height: 20%; bottom: 0px; position: absolute; z-index: 99; opacity: 0.6;
+}
+.con_9 {
+	margin-top: 3%;
+}
+.a7 a {
+	color: rgb(132, 132, 132); font-size: 1.5em;
+}
+.a7 a:hover {
+	color: rgb(150, 191, 31); text-decoration: none;
+}
+.c_p_2 {
+	left: 30%; top: 18%; width: 30%; height: 30%; text-align: center; color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 1.2em; position: absolute;
+}
+.gre2 {
+	color: rgb(149, 190, 31); font-family: "Î¢ÈíÑÅºÚ";
+}
+.info_head {
+	margin: 0px 15px; width: 93%; padding-left: 0px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.info_head a {
+	color: rgb(136, 136, 136);
+}
+.info_head a:hover {
+	color: rgb(150, 191, 31); text-decoration: underline;
+}

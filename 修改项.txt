@@ -1,0 +1,2 @@
+public.css文件
+1.第九行：将body里面的 text-align=center 去掉；

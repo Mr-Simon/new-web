@@ -1,0 +1,126 @@
+* {
+	margin: 0px; padding: 0px; font-family: "Î¢ÈíÑÅºÚ"; list-style-type: none;
+}
+html {
+	margin: 0px; padding: 0px; font-family: "Î¢ÈíÑÅºÚ"; list-style-type: none;
+}
+p {
+	margin: 0px;
+}
+a {
+	border: 0px currentColor; border-image: none;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+a {
+	color: rgb(0, 0, 0);
+}
+a:focus {
+	color: rgb(149, 191, 31); text-decoration: none;
+}
+a:hover {
+	color: rgb(149, 191, 31); text-decoration: none;
+}
+body {
+	line-height: 21px; font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, Arial, san-serif; font-size: 11.5px;
+}
+.current_page_item {
+	width: 90px;
+}
+.page_item {
+	display: block;
+}
+.ziti {
+	color: rgb(149, 190, 31); font-size: 18px;
+}
+.col {
+	color: rgb(255, 255, 255); background-color: rgb(149, 190, 31);
+}
+.col:link {
+	background-color: rgb(149, 190, 31);
+}
+.col:hover {
+	background-color: rgb(149, 190, 31);
+}
+.col:active {
+	background-color: rgb(149, 190, 31);
+}
+.col:visited {
+	background-color: rgb(149, 190, 31);
+}
+#thin {
+	height: 2px; margin-top: -1px; background-color: rgb(149, 190, 31);
+}
+#allmap {
+	background: rgb(43, 171, 121); height: 380px;
+}
+#footer {
+	background: rgb(149, 190, 31); padding-top: 10px; padding-bottom: 10px;
+}
+.whit {
+	color: rgb(255, 255, 255);
+}
+.gre {
+	color: rgb(149, 190, 31);
+}
+.now_position {
+	height: 30px; line-height: 30px; margin-bottom: 10px;
+}
+.now_position .po_center {
+	
+}
+.now_position a {
+	color: rgb(149, 190, 31); font-weight: bold;
+}
+.now_position a:hover {
+	text-decoration: underline;
+}
+.c_con {
+	overflow: hidden; position: relative; cursor: pointer;
+}
+.c_con2 {
+	overflow: hidden; position: relative; cursor: pointer;
+}
+.c_con3 {
+	overflow: hidden; position: relative; cursor: pointer;
+}
+.c_a {
+	background: rgb(51, 51, 51); width: 91%; height: 80%; margin-top: -35px; position: absolute; z-index: 99; opacity: 0.6;
+}
+.c_a2 {
+	background: rgb(51, 51, 51); width: 91%; height: 80%; margin-top: -35px; position: absolute; z-index: 99; opacity: 0.6;
+}
+.c_a3 {
+	background: rgb(51, 51, 51); width: 91%; height: 80%; margin-top: -35px; position: absolute; z-index: 99; opacity: 0.6;
+}
+.c_a p {
+	color: rgb(255, 255, 255); margin-top: 7px;
+}
+.c_a2 p {
+	color: rgb(255, 255, 255); margin-top: 7px;
+}
+.c_a3 p {
+	color: rgb(255, 255, 255); margin-top: 7px;
+}
+.gdtw ul li:hover {
+	border: 2px solid rgb(149, 190, 31) !important; border-image: none !important;
+}
+#footer a {
+	color: rgb(255, 255, 255);
+}
+#footer a:hover {
+	color: rgb(255, 255, 255);
+}
+.head_top {
+	height: 25px; color: rgb(175, 175, 175); line-height: 25px;
+}
+.head_top a {
+	color: rgb(175, 175, 175);
+}
+.head_top a:hover {
+	color: rgb(175, 175, 175);
+}
+.submit-btn {
+	background: rgb(150, 191, 31); border-radius: 5px; width: 100%; height: 40px; color: rgb(255, 255, 255); line-height: 40px; font-size: 1.5em;
+}
